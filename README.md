@@ -80,9 +80,3 @@ To run QuickConnect locally, follow these steps:
 
 ![Login Screen](assests/1.png)
 ![Chat Screen](assests/2.png)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact 📬
-
-For any questions or inquiries, please contact me at [your-email@example.com](mailto:your-email@example.com).
