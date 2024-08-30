@@ -76,9 +76,18 @@ To run QuickConnect locally, follow these steps:
 - **Send Messages**: Type your message and hit enter to send. 🚀
 - **Notifications**: You'll receive real-time notifications for new messages. 🔔
 
-## Screenshots 📸
+---
 
-1. Login Screen ![Login Screen](assest/1.png)
-2. SignUp Screen ![SignUp Screen](assest/2.png)
-3. Chat Screen ![Chat Screen](assest/4.png)
-4. Search User ![Search User](assest/3.png)
+## Screenshots 📸 
+
+1. **Login Screen**  
+   ![Login Screen](assest/1.png)
+
+2. **SignUp Screen**  
+   ![SignUp Screen](assest/2.png)
+
+3. **Chat Screen**  
+   ![Chat Screen](assest/4.png)
+
+4. **Search User**  
+   ![Search User](assest/3.png)
